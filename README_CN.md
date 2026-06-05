@@ -17,11 +17,11 @@
 
 ## 📂 精选项目
 
-### 🚗 [Car Rental Management](https://github.com/BoooSAMA/CarRentalManagement)
+### 📖 [KirinWiki](https://github.com/BoooSAMA/KirinWiki)
 
-汽车租赁管理 Web 应用 — 车辆库存管理、客户记录和租赁预订，支持基于角色的访问控制。
+个人维基/博客网站 — 使用 Astro 构建，记录学习历程、分享技术见解，并探索现代 Web 技术。
 
-`C#` `ASP.NET Core` `Blazor` `EF Core` `SQL Server`
+`Astro` `TypeScript` `Tailwind CSS` `Preact` `Cloudflare Workers`
 
 ### 🍞 [Smart Bakery](https://github.com/BoooSAMA/Smart-Bakery)
 
