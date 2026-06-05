@@ -17,11 +17,11 @@ Full-stack developer building web and mobile applications with .NET and Flutter.
 
 ## 📂 Featured Projects
 
-### 🚗 [Car Rental Management](https://github.com/BoooSAMA/CarRentalManagement)
+### 📖 [KirinWiki](https://github.com/BoooSAMA/KirinWiki)
 
-A full-featured web application for car rental business management — vehicle inventory, customer records, and rental booking with role-based access control.
+A personal wiki/blog website built with Astro — documenting my learning journey, sharing technical insights, and experimenting with modern web technologies.
 
-`C#` `ASP.NET Core` `Blazor` `EF Core` `SQL Server`
+`Astro` `TypeScript` `Tailwind CSS` `Preact` `Cloudflare Workers`
 
 ### 🍞 [Smart Bakery](https://github.com/BoooSAMA/Smart-Bakery)
 
