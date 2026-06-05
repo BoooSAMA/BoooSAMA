@@ -35,6 +35,12 @@ An online examination platform with admin dashboard, auto-grading, mock tests, t
 
 `C#` `ASP.NET Core` `Blazor` `EF Core` `SQL Server`
 
+### 📺 [BiliLive](https://github.com/BoooSAMA/dart_simple_live_bilibili)
+
+A streamlined Bilibili live streaming client for Android — forked from [Simple Live](https://github.com/xiaoyaocz/dart_simple_live), optimized for a focused Bilibili experience with partition browsing, danmaku display, multi-quality playback, and local favorites without login.
+
+`Dart` `Flutter` `Bilibili` `Android`
+
 ---
 
 <p align="center">
