@@ -43,7 +43,7 @@ A streamlined Bilibili live streaming client for Android — forked from [Simple
 
 ### 🎙️ [Simple Recorder](https://github.com/BoooSAMA/simple_recorder)
 
-Multi-platform live audio recording tool built with Flutter — supports Bilibili, Douyin, Douyu, Huya, and MaoerFM. Features FFmpeg-based parallel audio recording, automatic reconnection, background recording with Android foreground service, and built-in audio player.
+Multi-platform live audio recording tool built with Flutter — supports Bilibili, Douyu, Huya, and MaoerFM. Features FFmpeg-based parallel audio recording, automatic reconnection, background recording with Android foreground service, and built-in audio player.
 
 `Dart` `Flutter` `FFmpeg` `Android`
 
