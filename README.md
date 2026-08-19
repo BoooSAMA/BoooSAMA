@@ -27,7 +27,7 @@ A personal wiki/blog website built with Astro — documenting my learning journe
 
 Flutter mobile app for real-time bakery monitoring and control — displays temperature/humidity readings and controls fans, buzzers, and silent mode via a Raspberry Pi backend over local WiFi.
 
-`Dart` `Flutter` `IoT` `Raspberry Pi`
+`Dart` `Flutter` `IoT` `Raspberry Pi` `Ubuntu` `Linux`
 
 ### 📝 [Online Examination](https://github.com/BoooSAMA/Online-Examination)
 
