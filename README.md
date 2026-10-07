@@ -2,6 +2,7 @@
 
 Full-stack developer building web and mobile applications with .NET and Flutter.
 
+Working on MCU with several IoT project.
 ---
 
 ## 🛠 Tech Stack
