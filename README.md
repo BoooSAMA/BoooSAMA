@@ -22,7 +22,7 @@ Working on MCU with several robotic IoT project.
 
 A personal wiki/blog website built with Astro — documenting my learning journey, sharing technical insights, and experimenting with modern web technologies.
 
-`Astro` `TypeScript` `Tailwind CSS` `Preact` `Cloudflare Workers`
+`Astro` `TypeScript` `Tailwind CSS` `Preact` `Cloudflare Workers` `D1`
 
 ### 🍞 [Smart Bakery](https://github.com/BoooSAMA/Smart-Bakery)
 
