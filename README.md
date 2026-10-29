@@ -1,8 +1,8 @@
 # Hi there  👋 
 
-Full-stack developer building web and mobile applications with .NET and Flutter.
+I'm a Full-stack developer building web and mobile applications with .NET and Flutter.
 
-Working on MCU with several robotic IoT project.
+I'm working on MCU with several robotic IoT projects.
 ---
 
 ## 🛠 Tech Stack
@@ -11,7 +11,7 @@ Working on MCU with several robotic IoT project.
 |-----------|-------------|
 | Backend   | ASP.NET Core, C#, Entity Framework Core |
 | Frontend  | Blazor Interactive Server, Flutter, HTML/CSS |
-| Database  | SQL Server |
+| Database  | SQL Server, Firebase, SQlite3 |
 | Tools     | Visual Studio, Git, GitHub |
 
 ---
