@@ -17,6 +17,12 @@
 
 ## 📂 精选项目
 
+### 🟩 [GitHub Contributions Widget](https://github.com/BoooSAMA/GitHub-Contributions-Widget)
+
+极致轻量的 Android 原生桌面小组件（release 包约 300KB）— 把 GitHub 贡献热力图常驻桌面，Canvas 原生绘制、深浅色自动切换、时间跨度与配色可自定义，免登录无需 token。
+
+`Kotlin` `Android` `AppWidget` `Canvas`
+
 ### 📖 [KirinWiki](https://github.com/BoooSAMA/KirinWiki)
 
 个人维基/博客网站 — 使用 Astro 构建，记录学习历程、分享技术见解，并探索现代 Web 技术。

@@ -18,6 +18,12 @@ I'm working on MCU with several robotic IoT projects.
 
 ## 📂 Featured Projects
 
+### 🟩 [GitHub Contributions Widget](https://github.com/BoooSAMA/GitHub-Contributions-Widget)
+
+Ultra-lightweight native Android home-screen widget (~300 KB) that keeps your GitHub contribution heatmap on the desktop — Canvas-rendered, automatic light/dark theming, configurable time span and colors, no login or token required.
+
+`Kotlin` `Android` `AppWidget` `Canvas`
+
 ### 📖 [KirinWiki](https://github.com/BoooSAMA/KirinWiki)
 
 A personal wiki/blog website built with Astro — documenting my learning journey, sharing technical insights, and experimenting with modern web technologies.
